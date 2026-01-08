@@ -1,2 +1,2 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=jackmisbach&theme=dark-smoky)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=&theme=modern-lilac2)](https://git.io/streak-stats)
   
